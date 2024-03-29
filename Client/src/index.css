@@ -1,0 +1,11 @@
+.nav {
+    background-color: rgb(127, 51, 197);
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+body {
+    overflow-x: hidden;
+}
